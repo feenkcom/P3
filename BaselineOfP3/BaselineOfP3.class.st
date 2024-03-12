@@ -42,7 +42,7 @@ Class {
 }
 
 { #category : #baseline }
-BaselineOfP3 >> baselineOf: spec [
+BaselineOfP3 >> baseline: spec [
 	<baseline>
 	spec
 		for: #common
